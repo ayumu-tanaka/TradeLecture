@@ -9,6 +9,7 @@
 ### 基礎理論
 - [Krugman (1980)](Krugman1980.pdf) - 規模の経済と製品差別化に基づく新貿易理論の古典。
 - [Eaton and Kortum (2002)](Eaton-Kortum2002.pdf) - 現代的な定量貿易モデルの基礎となるリカード・モデルの拡張。
+- [Feenstra (2015) 講義資料](https://ayumu-tanaka.github.io/Feenstra/) - 国際貿易理論の標準的なテキストの解説。
 
 ### 現代的な拡張・定量的モデル
 - [Arkolakis (2012)](Arkolakis2012.pdf) - 新しい貿易モデル、同じ貿易利益。
