@@ -5,11 +5,13 @@
 
 ## 貿易理論 (Trade Theory)
 
-国際貿易の基礎から現代的な定量貿易モデルまでの主要な理論資料です。
+国際貿易の基礎から現代的な定量貿易モデルまでの主要な理論についての講義資料です。
 
 ### 基礎理論
 - [Krugman (1980)](Krugman1980.pdf) - 規模の経済と製品差別化に基づく新貿易理論の古典。
 - [Eaton and Kortum (2002)](Eaton-Kortum2002.pdf) - 現代的な定量貿易モデルの基礎となるリカード・モデルの拡張。
+- [Eaton and Kortum (2012)](Eaton-Kortum2012JP.pdf) ([スライド](Eaton-Kortum2012Slides.pdf)) - 現代的なリカードモデル、Eaton and Kortum (2002) の日本語要約・スライド。
+- [Melitz (2003)](Melitz2003.pdf) - 企業の異質性と貿易の効果に関する基礎的論文。
 - [Feenstra (2015) 講義資料](https://ayumu-tanaka.github.io/Feenstra/) - 国際貿易理論の標準的なテキストの解説。
 - [CES型効用関数の解法](CES2025.pdf) - CES型効用関数の最適化問題の解説。
 
