@@ -12,11 +12,11 @@
 - [Eaton and Kortum (2002)](Eaton-Kortum2002.pdf) - 現代的な定量貿易モデルの基礎となるリカード・モデルの拡張。
 - [Eaton and Kortum (2012)](Eaton-Kortum2012JP.pdf) ([スライド](Eaton-Kortum2012Slides.pdf)) - 現代的なリカードモデル、Eaton and Kortum (2002) の日本語要約・スライド。
 - [Melitz (2003)](Melitz2003.pdf) - 企業の異質性と貿易の効果に関する基礎的論文。
-- [Feenstra (2015) 講義資料](https://ayumu-tanaka.github.io/Feenstra/) - 国際貿易理論の標準的なテキストの解説。
+- [Feenstra (2015) 講義資料](https://ayumu-tanaka.github.io/Feenstra/) - 国際貿易論の標準的な大学院テキストのスライド。
 - [CES型効用関数の解法](CES2025.pdf) - CES型効用関数の最適化問題の解説。
 
 ### 現代的な拡張・定量的モデル
-- [Arkolakis (2012)](Arkolakis2012.pdf) - 定量的貿易モデルと貿易利益。
+- [Arkolakis, Costinot, and Rodríguez-Clare (2012)](Arkolakis2012.pdf) - 定量的貿易モデルと貿易利益。
 - [Allen and Arkolakis (2014)](AllenArkolakis2014.pdf) - 空間経済における交易と地形的構造。
 - [Allen and Arkolakis (2023)](AllenArkolakis2023.pdf) - 空間的経済活動の分布。
 - [Allen and Arkolakis (2025)](AllenArkolakis2025.pdf) - 定量的地域経済学。
