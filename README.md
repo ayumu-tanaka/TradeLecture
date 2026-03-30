@@ -17,6 +17,7 @@
 
 ### 現代的な拡張・定量的モデル
 - [Arkolakis (2012)](Arkolakis2012.pdf) - 定量的貿易モデルと貿易利益。
+- [Allen and Arkolakis (2014)](AllenArkolakis2014.pdf) - 空間経済における交易と地形的構造。
 - [Allen and Arkolakis (2023)](AllenArkolakis2023.pdf) - 空間的経済活動の分布。
 - [Allen and Arkolakis (2025)](AllenArkolakis2025.pdf) - 定量的地域経済学。
 - [Manova (2013)](Manova2013.pdf) - 金融制約と異質的企業。
