@@ -43,6 +43,8 @@
 - [Santos Silva and Tenreyro (2022)](SantosSilva_Tenreyro2022.pdf) ([スライド](SantosSilva_Tenreyro2022Slides.pdf)) - 重力方程式推定の再考。
 - [Yotov (2025)](Yotov2025.pdf) - 最新の重力方程式推定手法。
 - [Yotov (2025) 実装コード集](Yotov2025Codes.pdf) - 貿易分析の実装例。
+- [Baier and Bergstrand (2007)](BaierBergstrand2007.pdf) - 貿易協定の効果を分析するための重力方程式の利用。
+
 
 ### 実践的な R 実装チュートリアル
 R を用いた具体的な分析手順については、以下のガイドを参照してください。
