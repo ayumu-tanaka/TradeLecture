@@ -10,7 +10,7 @@
 ### 基礎理論
 - [Krugman (1980)](Krugman1980.pdf) - 規模の経済と製品差別化に基づく新貿易理論の古典。
 - [Eaton and Kortum (2002)](Eaton-Kortum2002.pdf) - 現代的な定量貿易モデルの基礎となるリカード・モデルの拡張。
-- Eaton and Kortum (2012) ([抄訳](Eaton-Kortum2012JP.pdf) / [スライド](Eaton-Kortum2012Slides.pdf)) - 現代的なリカードモデル、Eaton and Kortum (2002)の解説。
+- [Eaton and Kortum (2012)](Eaton-Kortum2012Slides.pdf)  - 現代的なリカードモデル、Eaton and Kortum (2002)の解説。[抄訳](Eaton-Kortum2012JP.pdf)。
 - [Melitz (2003)](Melitz2003.pdf) - 企業の異質性と貿易の効果に関する基礎的論文。
 - [Feenstra (2015) 講義資料](https://ayumu-tanaka.github.io/Feenstra/) - 国際貿易論の標準的な大学院テキストのスライド。
 - [CES型効用関数の解法](CES2025.pdf) - CES型効用関数の最適化問題の解説。
@@ -34,16 +34,17 @@
 貿易フローを分析するための標準的な手法である重力方程式に関する資料です。
 
 ### 重力方程式の理論と推定
-- Anderson and Wincoop (2003) ([抄訳](AndersonWincoop2003.pdf) / [スライド](AndersonWincoop2003Slides.pdf)) - 理論的に整合的な重力方程式の導出。
+- [Anderson and Wincoop (2003)](AndersonWincoop2003Slides.pdf) - 理論的に整合的な重力方程式の導出。[抄訳](AndersonWincoop2003.pdf)。
 - [Head and Mayer (2014)](Head_Mayer2014.pdf) - 重力方程式の推定に関する包括的なガイドライン。
 - [Head and Mayer (2021)](Head_Mayer2021.pdf) - Eaton and Kortum (2002) 型の重力方程式の利用。
 - [WTO and UNCTAD (2012, Chapter 3)](ch03_gravity.pdf) - 重力方程式の基礎理論と推定の解説。
 - [Helpman, Melitz and Rubinstein (2008)](HMR2008.pdf) - 企業の異質性を考慮した重力方程式。
-- Santos Silva and Tenreyro (2006) ([スライド1](SantosSilva_Tenreyro2006Slides1.pdf) / [スライド2](SantosSilva_Tenreyro2006Slides2.pdf)) - PPML推定法を用いた貿易データの分析。
-- Santos Silva and Tenreyro (2022) ([抄訳](SantosSilva_Tenreyro2022.pdf) / [スライド](SantosSilva_Tenreyro2022Slides.pdf)) - 重力方程式推定の再考。
+- [Santos Silva and Tenreyro (2006)](SantosSilva_Tenreyro2006Slides1.pdf)  - PPML推定法を用いた貿易データの分析。[スライド2](SantosSilva_Tenreyro2006Slides2.pdf)。
+- [Santos Silva and Tenreyro (2022)](SantosSilva_Tenreyro2022Slides.pdf) - 重力方程式推定の再考。[抄訳](SantosSilva_Tenreyro2022.pdf)。
 - [Yotov (2025)](Yotov2025.pdf) - 最新の重力方程式推定手法。
 - [Yotov (2025) 実装コード集](Yotov2025Codes.pdf) - 貿易分析の実装例。
 - [Baier and Bergstrand (2007)](BaierBergstrand2007.pdf) - 貿易協定の効果を分析するための重力方程式の利用。
+- [Baier, Yotov and Zylkin (2019)](BaierYotovZylkin2019.pdf) - FTA効果の異質性。
 
 
 ### 実践的な R 実装チュートリアル
